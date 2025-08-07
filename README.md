@@ -2,19 +2,19 @@
 <h3 align="center">🎓 Bilgisayar Mühendisliği 3. Sınıf • 💡 Yazılım Mimarisi • 🤖 Yapay Zeka Uzmanı</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Yazılım+Mimarisine+Odaklanıyorum;Görüntü+İşleme+ve+Yapay+Zeka+Uzmanıyım;Kripto+ve+Finansal+Teknolojiler+Geliştiriyorum;Flutter+ile+Çarpıcı+Mobil+Uygulamalar+Yapıyorum;Teknolojinin+sınırlarını+zorluyorum">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Yazılım+Mimarisine+Odaklanıyorum;Görüntü+İşleme+ve+Yapay+Zeka+Üzerine+Çalışıyorum;Kripto+ve+Finansal+Teknolojiler+Geliştiriyorum;Flutter+ile+Çarpıcı+Mobil+Uygulamalar+Yapıyorum;Teknolojinin+sınırlarını+zorluyorum">
 </p>
 
 🧠 Hakkımda
 🎓 Başkent Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 
-👨‍💻 Yazılım Geliştirme Danışmanı olarak, projelerin mimarisini oluşturuyor ve teknik liderlik yapıyorum.
+👨‍💻 Yazılım Geliştirme projelerin mimarisini oluşturuyor ve teknik liderlik yapıyorum.
 
 📈 200'den fazla GitHub katkısı ile aktif bir şekilde açık kaynak dünyasına değer katıyorum.
 
 🌍 Yapay zeka, kripto para ve finansal teknolojiler, görüntü işleme ve mobil uygulama geliştirme alanlarında derinlemesine uzmanlığa sahibim.
 
-🔧 Güncel olarak Python (FastAPI), TypeScript (Next.js), PyTorch, TensorFlow gibi modern teknolojilerle projelerime hayat veriyorum.
+🔧 Güncel olarak Python, FastAPI, TypeScript (Next.js), PyTorch, TensorFlow gibi modern teknolojilerle projelerime hayat veriyorum.
 
 🐳 Docker, Kubernetes gibi konteyner ve orkestrasyon araçlarıyla, geliştirdiğim sistemlerin ölçeklenebilir ve güvenilir olmasını sağlıyorum.
 
