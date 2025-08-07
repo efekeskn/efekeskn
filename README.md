@@ -21,15 +21,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohjVapxXwsmHO5N2k/giphy.gif" width="80%" alt="Crypto Bot Animation" />
-</p>
-
-Bu proje, kripto piyasalarında **otomatik alım-satım kararları veren**, yapay zeka destekli, yüksek performanslı bir bot mimarisi sunar.  
-**Teknik, on-chain ve sosyal medya analizlerini** birleştirerek kararlar üretir.  
-Modüler yapısı sayesinde kullanıcılar JSON tabanlı stratejilerle sistemi kişiselleştirebilir.  
-Next.js ile geliştirilmiş şık web arayüzü sayesinde verileri gerçek zamanlı görüntüler.
-
 ### ✨ Göz Alıcı Özellikler:
 - 📊 Derin öğrenme destekli karar mekanizması  
 - ⚙️ Mikroservis mimari ile yüksek ölçeklenebilirlik  
