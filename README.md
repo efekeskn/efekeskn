@@ -21,8 +21,6 @@
 
 ---
 
-## 💡 Öne Çıkan Projem: **Akıllı Kripto Al-Sat Botu** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitcoin/bitcoin-original.svg" alt="bitcoin" width="30"/>
-
 <p align="center">
   <img src="https://media.giphy.com/media/3ohjVapxXwsmHO5N2k/giphy.gif" width="80%" alt="Crypto Bot Animation" />
 </p>
