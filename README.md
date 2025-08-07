@@ -1,5 +1,5 @@
 <h1 align="center">✨ Merhaba, Ben <span style="color:#A020F0">Efe Keskin</span> ✨</h1>
-<h3 align="center">🎓 Bilgisayar Mühendisliği 3. Sınıf • 💡 Yazılım Mimarı • 🤖 Yapay Zeka Uzmanı</h3>
+<h3 align="center">🎓 Bilgisayar Mühendisliği 3. Sınıf • 💡 Yazılım Mimarı • 🤖 Yapay Zeka Geliştiricisi</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&height=60&lines=Yazılım+Mimarisine+Odaklanıyorum+🏗️;Yapay+Zeka+ve+Derin+Öğrenme+Üzerine+Çalışıyorum+🧠;Kripto+ve+FinTech+Geliştiriyorum+💰;Flutter+ile+Mobil+Uygulamalar+Yapıyorum+📱;Teknolojinin+Sınırlarını+Zorluyorum+🚀" alt="Typing SVG" />
