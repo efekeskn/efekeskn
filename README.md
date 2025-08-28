@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Bilgisayar Mühendisliği 3. Sınıf • 💡 Yazılım Mühendisi • 🤖 Yapay Zeka Geliştiricisi </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=600&height=60&lines=Yapay+Zeka+ve+Arduino+Projeleri+🤖;Mobil+ve+Web+Uygulama+Geliştirme+📱;Kripto+ve+FinTech+💰;Mikrodenetleyici+ve+IoT+Çözümleri+🌐+;Veri+Tabanı+ve+Conteynerizasyon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=600&height=60&lines=Yapay+Zeka+ve+Arduino+Projeleri+🤖;Mobil+ve+Web+Uygulama+Geliştirme+📱;Kripto+ve+FinTech+💰;Mikrodenetleyici+ve+IoT+Çözümleri+🌐+;Veri+Tabanı+ve+Konteynerizasyon" alt="Typing SVG" />
 </p>
 
 ---
