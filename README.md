@@ -25,7 +25,6 @@
 ## 📌 İlgi Alanlarım
 - 🤖 **Yapay Zeka & Derin Öğrenme**
 - 📱 **Mobil Uygulama Geliştirme**
-- 💸 **Kripto ve FinTech**
 - 🌐 **Web Geliştirme**
 
 ---
